@@ -1,0 +1,27 @@
+{
+  "name": "next-amp-seo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "add": "^2.0.6",
+    "next": "^9.2.0",
+    "next-seo": "^3.4.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "yarn": "^1.21.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.8",
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.5"
+  }
+}
